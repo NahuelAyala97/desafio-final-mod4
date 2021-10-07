@@ -1,7 +1,7 @@
 function appendHeader(el) {
   const componentEl = document.createElement("div");
   componentEl.innerHTML = `  <header class="header">
-  <a class="header__logo logo" href="/">NAHUEL</a>
+  <a class="header__logo logo" href="./">NAHUEL</a>
   <button class="header__button-open-hamburger">
     <div class="button-open-hamburger--bread"></div>
     <div class="button-open-hamburger--bread"></div>
